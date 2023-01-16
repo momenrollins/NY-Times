@@ -1,4 +1,4 @@
-### NY Times app is an Minimal News Android application built using NY-Times' Most Popular API.
+### NY Times app is a Minimal News Android application built using NY-Times' Most Popular API.
 
 #### Built with:
 * Kotlin
